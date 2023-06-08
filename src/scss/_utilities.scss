@@ -1,0 +1,8 @@
+@mixin buttoncorners($value){
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: medium;
+    margin: 10px;
+    border-radius: $value;
+}

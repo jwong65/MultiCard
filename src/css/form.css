@@ -1,0 +1,14 @@
+.play {
+  border: 1px solid black;
+}
+
+.testbutton {
+  border: none;
+  text-align: center;
+  display: inline-block;
+  font-size: medium;
+  margin: 10px;
+  border-radius: 2px;
+}
+
+/*# sourceMappingURL=form.css.map */
